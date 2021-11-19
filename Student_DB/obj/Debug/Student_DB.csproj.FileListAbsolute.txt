@@ -1,0 +1,10 @@
+C:\Users\ferad\source\repos\Student_DB\Student_DB\bin\Debug\Student_DB.exe.config
+C:\Users\ferad\source\repos\Student_DB\Student_DB\bin\Debug\Student_DB.exe
+C:\Users\ferad\source\repos\Student_DB\Student_DB\bin\Debug\Student_DB.pdb
+C:\Users\ferad\source\repos\Student_DB\Student_DB\obj\Debug\Student_DB.csproj.AssemblyReference.cache
+C:\Users\ferad\source\repos\Student_DB\Student_DB\obj\Debug\Student_DB.GUI.form_student.resources
+C:\Users\ferad\source\repos\Student_DB\Student_DB\obj\Debug\Student_DB.Properties.Resources.resources
+C:\Users\ferad\source\repos\Student_DB\Student_DB\obj\Debug\Student_DB.csproj.GenerateResource.cache
+C:\Users\ferad\source\repos\Student_DB\Student_DB\obj\Debug\Student_DB.csproj.CoreCompileInputs.cache
+C:\Users\ferad\source\repos\Student_DB\Student_DB\obj\Debug\Student_DB.exe
+C:\Users\ferad\source\repos\Student_DB\Student_DB\obj\Debug\Student_DB.pdb
